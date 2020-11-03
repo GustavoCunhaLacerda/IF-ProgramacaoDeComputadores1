@@ -1,0 +1,4 @@
+banana 5.8
+ketchup 9.90
+papel-higienico 15.00
+chocolate 8.90

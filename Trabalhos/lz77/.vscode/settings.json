@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "lz77decode.h": "c",
+        "lz77encode.h": "c"
+    }
+}
